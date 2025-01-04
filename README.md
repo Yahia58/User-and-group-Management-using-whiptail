@@ -29,7 +29,7 @@ The tool  designed for flexibility and ease of use:
 ### Bash (whiptail)
 - **Description:** Uses dialog boxes for GUI interactions. Designed for users who prefer visual interfaces. Provides feedback for all operations.
 - **Screenshot:**
-  ![Bash Whiptail Screenshot](whiptail.png)
+  ![Bash Whiptail Screenshot](whilptail.png)
 
 ---
 
